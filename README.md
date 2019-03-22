@@ -1,5 +1,5 @@
 # lucille
-
+Viz components for Vue.js
 ## Project setup
 ```
 npm install
